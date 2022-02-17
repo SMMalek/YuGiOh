@@ -13,7 +13,7 @@ Players win when the opponent's "Life Points" finish
 The game is made fully with Java SE.
 It has a pre-game interface where players Enter UserNames then redirect to the main game interface after
 
-##Run
+## Run
 ```sh
 start.java
 ```
